@@ -1,1 +1,16 @@
 node content here
+
+
+
+
+
+## Important Node Information
+- Forms the basis of Linked Lists, Queues, Stacks, Tries and more
+- An individual node contains data and links to other nodes.
+- Data inside of a node can be anything. Strings. Floats. Ints. Etc…
+- Link(s) inside the node are sometimes referred to as pointers because they “point” to another node.
+- Nodes data is immutable
+
+
+
+## Project Computoria: The Nodes
